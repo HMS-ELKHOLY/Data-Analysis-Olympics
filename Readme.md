@@ -2,7 +2,7 @@
 
 ## Dataset
 
- I used data sets of **"120-years-of-olympic-history-athletes-and-results"** in [Kaggele](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results) which has information about players , their teams , medals and gende
+ I used data sets of **"120-years-of-olympic-history-athletes-and-results"** in [Kaggele](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results) which has information about players , their teams , medals and gender
 
 The data consists of information regarding 271116 rows and includes  :
 
